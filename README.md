@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **gulsahsevinel/gulsahsevinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">merhaba 👋, ben'm Gülşah</h1>
+<h1 align="center">merhaba 👋, ben Gülşah</h1>
 <h3 align="center">very junior mobile app developer</h3>
 
 - 🌱 Şu an öğrenmekte olduğum şey(ler): **Flutter/Dart**
