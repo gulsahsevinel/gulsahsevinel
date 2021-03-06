@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">merhaba 👋, ben Gülşah</h1>
-<h3 align="center">very junior mobile app developer</h3>
+<h3 align="center">junior mobile app developer</h3>
 
 - 🌱 Şu an öğrenmekte olduğum şey(ler): **Flutter/Dart**
 - 📫 bana nasıl ulaşabilirsin? **gulsahsevinel@gmail.com**
