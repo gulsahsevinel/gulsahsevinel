@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">merhaba 👋, ben Gülşah</h1>
 <h3 align="center">junior mobile app developer</h3>
 
-- 🌱 I’m currently learning **Flutter/Dart, Kotlin**
+- 🌱 I’m currently learning **Kotlin**
 - 📫 How to reach me: **gulsahsevinel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
