@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <img src="https://media1.giphy.com/media/3o7aTm4LQPa8BAB4Pu/giphy.gif" alt="hello there"></p>
 </br><p>
 - Newbie 🤚</br>
-- 🌱 I’m currently learning **kotlin** 👽</br>
-- 📫 How to reach me: **gulsahsevinel@gmail.com**</p>
+- 🌱 I’m currently learning kotlin 👽</br>
+- 📫 How to reach me: gulsahsevinel@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
