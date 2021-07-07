@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://media1.giphy.com/media/3o7aTm4LQPa8BAB4Pu/giphy.gif" alt="hello there"></p>
 </br><p>
-- Newbie 🤚</br>
+- Jr 🤚</br>
 - 🌱 I’m currently learning kotlin 👽</br>
 - 📫 How to reach me: gulsahsevinel@gmail.com</p>
 
